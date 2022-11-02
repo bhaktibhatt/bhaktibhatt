@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaktibhatt&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktibhatt&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/bhaktibhatt/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bhaktibhatt&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
