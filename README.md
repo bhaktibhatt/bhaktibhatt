@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <img align="right" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"/>
 
-- 🔭 I’m currently working on **Todo-List**
+- 🔭 I’m currently working on **Todo-List Using React And Bootstrap**
 
 - 🌱 I’m currently learning **React, Tailwind**
 
