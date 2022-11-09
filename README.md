@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
   
 <a href="https://linkedin.com/in/bhakti-bhatt-39938022a" target="blank">
@@ -38,6 +39,11 @@ Here are some ideas to get you started:
 <a href="https://www.hackerrank.com/bhaktibhatt" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bhaktibhatt" height="30" width="40" />
 </a>
+</p>
+
+<p align="left"> 
+  Visitor Count ~ <br><br>
+  <img src="https://profile-counter.glitch.me/bhaktibhatt/count.svg" />
 </p>
 
 <h3 align="left">Languages and Tools ~</h3>
