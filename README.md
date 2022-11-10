@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 
-- 🔭 I’m currently working on **Todo-List Using React And Bootstrap**
+- 🔭 I’m currently working on **Web Designing Intership By Oasis Infobyte**
 
 - 🌱 I’m currently learning **React, Tailwind**
 <img align="right" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"/>
