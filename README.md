@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 
 
-- 🔭 I’m currently working on **🐴Chessable - web based Chess module with four player variant.**
+- 🔭 I’m currently working on **♟️Chessable - web based Chess module with four player variant.**
 
 - 🌱 I’m currently learning **React, Tailwind**
 <img align="right" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"/>
