@@ -26,6 +26,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **React, Tailwind**
 <img align="right" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"/>
 
+
 - 📫 How to reach me **bhaktinirbhaybhatt@gmail.com**
 
 - 😄 Pronouns: She/Her
@@ -63,6 +64,8 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
+
+  <p align="right">🌱MY website: https://bhaktibhatt.github.io/portfolio/</p>
 
 <h3 align="left">Web Development ~</h3>
 <p align="left">
