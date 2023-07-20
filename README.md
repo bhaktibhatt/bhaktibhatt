@@ -19,9 +19,8 @@ Here are some ideas to get you started:
 <h1 align="left">Hi 👋, I'm Bhakti 💜</h1>
 <h1 align="center">Aspiring Web Developer✨</h1>
 <h2 align="center"><a href="https://bhaktibhatt.github.io/portfolio/">My Portfolio ✨</a></h2>
-- 🔭 I’m currently working on **♟️Chessable - web based Chess module with four player variant. collaborating with @prathmesh-ka-github , @janvi-jadav, @Khushi0604**
-
-- 🌱 I’m currently learning **React, Tailwind**
+- 🔭 I’m currently learning 
+- 🌱 I’m currently learning **ReactJS and Redux**
 <img align="right" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"/>
 
 
@@ -62,8 +61,6 @@ Here are some ideas to get you started:
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
   </a>
 </p>
-
-  <p align="right">🌱MY website: </p>
 
 <h3 align="left">Web Development ~</h3>
 <p align="left">
