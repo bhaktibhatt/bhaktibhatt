@@ -82,7 +82,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="left"> 
-  Visitor Count ~ <br><br>
+  Visitor Count <br><br>
   <img src="https://profile-counter.glitch.me/bhaktibhatt/count.svg" />
 </p>
 
