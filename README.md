@@ -91,7 +91,7 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaktibhatt&show_icons=true&theme=tokyonight&hide_border=true)
 
 <!-- Contrbution graph -->
-<img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
+<img height="600" src="/profile-3d-contrib/profile-night-view.svg" />
 
 <!-- Contrbution graph ends-->
 
