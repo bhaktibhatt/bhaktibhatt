@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 
 
 <!-- Contrbution graph -->
-![svg](https://raw.githubusercontent.com/bhaktibhatt/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+<img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
 
 <!-- Contrbution graph ends-->
 
