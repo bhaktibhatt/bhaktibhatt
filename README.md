@@ -90,12 +90,13 @@ Here are some ideas to get you started:
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bhaktibhatt&show_icons=true&theme=tokyonight&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktibhatt&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/bhaktibhatt/github-readme-stats)
-
-
 <!-- Contrbution graph -->
 <img height="600" src="/profile-3d-contrib/profile-night-rainbow.svg" />
 
 <!-- Contrbution graph ends-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktibhatt&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/bhaktibhatt/github-readme-stats)
+
+
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=bhaktibhatt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
