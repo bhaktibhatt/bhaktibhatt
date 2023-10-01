@@ -15,7 +15,7 @@ jobs:
       - name: GitHub-Profile-3D-Contrib
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_3DG_GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.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 }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: ${{ github.repository_count }}
       - name: Commit & Push
