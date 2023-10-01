@@ -92,4 +92,10 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaktibhatt&hide_border=true&layout=compact&theme=tokyonight)](https://github.com/bhaktibhatt/github-readme-stats)
 
+
+<!-- Contrbution graph -->
+![svg](https://raw.githubusercontent.com/bhaktibhatt/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
+
+<!-- Contrbution graph ends-->
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=bhaktibhatt&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
