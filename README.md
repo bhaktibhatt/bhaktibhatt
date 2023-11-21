@@ -1,4 +1,4 @@
-![image](https://github.com/bhaktibhatt/bhaktibhatt/assets/114228551/2231123d-d68f-470b-9d7f-dff784ae1b16)
+
 
 <!--
 **bhaktibhatt/bhaktibhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
