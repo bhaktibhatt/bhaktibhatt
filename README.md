@@ -1,4 +1,4 @@
-
+![image](https://github.com/bhaktibhatt/bhaktibhatt/assets/114228551/2231123d-d68f-470b-9d7f-dff784ae1b16)
 
 <!--
 **bhaktibhatt/bhaktibhatt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align="left">Hi 👋, I'm Bhakti 💜</h1>
 <h1 align="center">Aspiring Web Developer✨</h1>
-<h2 align="center"><a href="https://bhaktibhatt.github.io/portfolio/">My Portfolio ✨</a></h2>
+<h2 align="center"><a href="https://bhaktibhatt.github.io">My Portfolio ✨</a></h2>
 - 🔭 I’m currently learning 
 - 🌱 I’m currently learning the MERN Stack
 <img align="right" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"/>
