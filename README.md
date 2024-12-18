@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 
 <h1 align="left">Hi 👋, I'm Bhakti 💜</h1>
-<h1 align="center">Aspiring Web Developer✨</h1>
-<h2 align="center"><a href="https://bhaktibhatt.github.io">My Portfolio ✨</a></h2>
-- 🔭 I’m currently learning 
-- 🌱 I’m currently learning the MERN Stack
+<h1 align="center">Ethical Hacking 💻 and SOC analysis 🔎✨</h1>
+<h2 align="center"><a href="https://bhaktibhatt.github.io">My Web Dev Portfolio ✨</a></h2>
+- 🔭 I’m currently learning Ethical Hacking tools
+- 🌱 I’m currently learning SOC analysis techniques
 <img align="right" width="400" src="https://i.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.webp"/>
 
 
